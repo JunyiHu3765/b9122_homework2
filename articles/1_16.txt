@@ -1,0 +1,1042 @@
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8"/>
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="icon" href="/themes/custom/un_press_theme/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="alternate" hreflang="en" href="https://press.un.org/en/2023/sgsm21706.doc.htm"/>
+<link rel="canonical" href="https://press.un.org/en/2023/sgsm21706.doc.htm"/>
+<link rel="shortlink" href="https://press.un.org/en/node/315037"/>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&amp;l='+l:'';j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+'';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NWVSS4R');</script>
+
+    <title>‘Graduation Must Be a Reward, Never a Punishment’, Says Secretary-General at Leaders’ Summit of Least Developed Countries | UN Press</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_od0KHlqkeLiEEpLkzfvA3wzd7KvfgzFfCll5kr_NbFA.css"/>
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_SG2VqkisULL-jcdvCik8Fl-Wjr62fAk8Mk2BiBICszI.css"/>
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;600;700&amp;display=swap"/>
+<link rel="stylesheet" media="all" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css"/>
+
+    
+  </head>
+  <body class="node-315037 node-type--press">
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NWVSS4R" height="0" width="0" style="display:none;visibility:hidden"/></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    <div class="page">
+  <header class="main-header">
+  <div class="page-loader"/>
+  <div class="container-fluid brandbar-header fixed-top">
+    <div class="container">
+      <div class="row justify-content-around align-items-center">
+        <div class="col-8 col-sm-3">
+                        
+  <div class="block block--un-press-theme-branding block--system-branding">
+
+  
+    
+
+      
+  <a href="/en" class="navbar-brand d-flex align-items-center block--system-branding" aria-label="">
+        
+  </a>
+
+  
+  </div>
+
+
+            <a class="navbar-brand" href="https://www.un.org/en"><i class="home-icon fas fa-home fa-lg"/> Welcome to the United Nations</a>
+                  </div>
+        <div class="col-4 col-sm-9 d-flex justify-content-end language-switcher">
+                        
+  <div class="language-switcher-language-url block block--languageswitcher" role="navigation">
+
+  
+    
+
+      <div class="language-wrapper">
+  <button class="navbar-toggler language-button d-block d-md-none" type="button" data-bs-toggle="collapse" data-bs-target=".links.nav" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle language"><span class="title">Language:</span>
+  <span class="navbar-toggler-icon"/>
+</button>
+</div>
+
+  
+  </div>
+
+
+                  </div>
+      </div>
+    </div>
+  </div>
+  <div class="navbar-wrapper">
+    <div class="container">
+      <div class="row justify-content-around align-items-center">
+        <div class="col-12 col-lg-9 d-flex branding-top-wrapper">
+                    <a class="logo navbar-btn pull-left flip" href="https://www.un.org/en" title="United Nations"/>
+          <a class="navbar-brand pull-left flip" href="https://press.un.org/en">Meetings Coverage and Press Releases</a>
+        </div>
+        <div class="col-12 col-lg-3 justify-content-end search-wrapper d-none d-md-block">
+                                      
+  <div class="views-exposed-form bef-exposed-form needs-validation block block--exposedformsitesearchpage-1" data-drupal-selector="views-exposed-form-sitesearch-page-1">
+
+  
+    
+
+      
+<form action="/en/sitesearch" method="get" id="views-exposed-form-sitesearch-page-1" accept-charset="UTF-8" class="form">
+  <div class="js-form-item form-item js-form-type-textfield form-item-search-api-fulltext js-form-item-search-api-fulltext form-group">
+      
+  
+  
+  
+  
+  
+<input data-drupal-selector="edit-search-api-fulltext" type="text" id="edit-search-api-fulltext" name="search_api_fulltext" value="" size="30" maxlength="128" class="form-textfield form-control"/>
+<label class="sr-only" for="edit-search-api-fulltext">Search</label>
+<label class="sr-only" for="edit-search-api-fulltext--2">Search</label>
+
+
+  
+  
+  
+  
+  </div>
+<fieldset data-drupal-selector="edit-sort-by" id="edit-sort-by--wrapper" class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper mb-3">
+    
+      <legend class="fieldset-legend m-0">
+      Sort By</legend>
+  
+  <div class="fieldset-wrapper">
+                <div id="edit-sort-by" class="form-radios"><div class="form-radios">
+                  <div class="js-form-item form-item js-form-type-radio form-item-sort-by js-form-item-sort-by form-check">
+  
+<input data-drupal-selector="edit-sort-by-field-dated" type="radio" id="edit-sort-by-field-dated" name="sort_by" value="field_dated" checked="checked" class="form-radio form-check-input"/>
+
+
+  <label class="form-check-label option" for="edit-sort-by-field-dated">Most Recent Entries</label>
+
+  
+  </div>
+
+                    <div class="js-form-item form-item js-form-type-radio form-item-sort-by js-form-item-sort-by form-check">
+  
+<input data-drupal-selector="edit-sort-by-search-api-relevance" type="radio" id="edit-sort-by-search-api-relevance" name="sort_by" value="search_api_relevance" class="form-radio form-check-input"/>
+
+
+  <label class="form-check-label option" for="edit-sort-by-search-api-relevance">Most Relevant Entries</label>
+
+  
+  </div>
+
+      </div>
+</div>
+
+          </div>
+</fieldset>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+
+<input data-drupal-selector="edit-submit-sitesearch" type="submit" id="edit-submit-sitesearch" value="Search" class="js-form-submit form-submit btn btn-primary"/>
+</div>
+
+
+</form>
+
+  
+  </div>
+
+
+                              </div>
+      </div>
+    </div>
+  </div>
+  <div class="nav-wrapper">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+                      <div class="menu-container bg-dark">
+              <div class="menu-main">
+                
+
+
+<nav class="navbar navbar-expand-lg justify-content-between  ">
+  
+
+
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"/>
+  </button>
+
+  <div class="collapse navbar-collapse">
+                          
+  <div class="block block--mainenglishmenu block--system-menu">
+
+  
+    
+
+      
+  
+
+
+  <ul class="nav">
+                          
+                
+        <li class="nav-item">
+                      <a href="/en" title="" class="nav-link" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+                  </li>
+                      
+                
+        <li class="nav-item dropdown">
+                      <a href="/en/content/secretary-general" title="Secretary-General" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-drupal-link-system-path="content/secretary-general">Secretary-General</a>
+                          <div class="dropdown-menu">
+              <a href="/en/content/secretary-general" title="Latest Press Release, Statements etc. from the Secretary General" class="dropdown-item" data-drupal-link-system-path="content/secretary-general">Latest</a>
+              <a href="/en/content/secretary-general/press-release" title="Secretary General Press Releases" class="dropdown-item" data-drupal-link-system-path="content/secretary-general/press-release">Press Releases</a>
+              <a href="/en/content/secretary-general/press-conference" title="Secretary Genral Press Conferences" class="dropdown-item" data-drupal-link-system-path="content/secretary-general/press-conference">Press Conferences</a>
+  </div>
+                              </li>
+                      
+                
+        <li class="nav-item dropdown">
+                      <a href="/en/content/general-assembly" title="General Assembly" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-drupal-link-system-path="content/general-assembly">General Assembly</a>
+                          <div class="dropdown-menu">
+              <a href="/en/content/general-assembly" title="" class="dropdown-item" data-drupal-link-system-path="content/general-assembly">Latest</a>
+              <a href="/en/content/general-assembly/meetings-coverage" title="General Assembly Meetings Coverage" class="dropdown-item" data-drupal-link-system-path="content/general-assembly/meetings-coverage">Meetings Coverage</a>
+              <a href="/en/content/general-assembly/press-release" title="General Assembly Press Releases" class="dropdown-item" data-drupal-link-system-path="content/general-assembly/press-release">Press Releases</a>
+  </div>
+                              </li>
+                      
+                
+        <li class="nav-item dropdown">
+                      <a href="/en/content/security-council" title="Security Council" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-drupal-link-system-path="content/security-council">Security Council</a>
+                          <div class="dropdown-menu">
+              <a href="/en/content/security-council" title="" class="dropdown-item" data-drupal-link-system-path="content/security-council">Latest</a>
+              <a href="/en/content/security-council/meetings-coverage" title="" class="dropdown-item" data-drupal-link-system-path="content/security-council/meetings-coverage">Meetings Coverage</a>
+              <a href="/en/content/security-council/press-release" title="" class="dropdown-item" data-drupal-link-system-path="content/security-council/press-release">Press Releases</a>
+              <a href="/en/content/security-council/press-conference" title="" class="dropdown-item" data-drupal-link-system-path="content/security-council/press-conference">Press Conferences</a>
+  </div>
+                              </li>
+                      
+                
+        <li class="nav-item dropdown">
+                      <a href="/en/content/economic-and-social-council" title="Economic and Social Council" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-drupal-link-system-path="content/economic-and-social-council">Economic and Social Council</a>
+                          <div class="dropdown-menu">
+              <a href="/en/content/economic-and-social-council" title="" class="dropdown-item" data-drupal-link-system-path="content/economic-and-social-council">Latest</a>
+              <a href="/en/content/economic-and-social-council/meetings-coverage" title="" class="dropdown-item" data-drupal-link-system-path="content/economic-and-social-council/meetings-coverage">Meetings Coverage</a>
+              <a href="/en/content/economic-and-social-council/press-release" title="" class="dropdown-item" data-drupal-link-system-path="content/economic-and-social-council/press-release">Press Releases</a>
+  </div>
+                              </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="https://www.icj-cij.org/en/press-releases" title="" class="nav-link"> International Court of Justice</a>
+                  </li>
+            </ul>
+
+
+  
+  </div>
+
+
+                    </div>
+
+  </nav>
+              </div>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+  <main class="">
+    <a id="main-content" tabindex="-1"/>
+          <div class="page__content">
+        <div class="container">
+            <div data-drupal-messages-fallback="" class="hidden"/>
+  <div class="block block--un-press-theme-content block--system-main">
+
+  
+    
+
+      
+
+
+
+<article role="article" class="node press press--full">
+  
+  
+
+      
+    
+    <div class="node__content">
+      
+<div class="panel-display bryant-flipped clearfix">
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-9 radix-layouts-content panel-panel">
+        <div class="panel-panel-inner">
+		  
+  <div class="block inline print-sub-head">
+
+  
+    
+
+      
+            <div class="field field--name-field-doctype field--type-entity-reference field--label-hidden field__item"><a href="/en/press-release" hreflang="en">Press Release</a></div>
+      
+  
+  </div>
+
+  <div class="block print-head">
+
+  
+    
+
+      
+            <div class="field field--name-field-un-bodies field--type-entity-reference field--label-hidden field__item"><ul class="shs clearfix shs-linked"><li><a href="/en/secretary-general" hreflang="en">Secretary-General</a></li><li><a href="/en/statements-and-messages" hreflang="en">Statements and Messages</a></li></ul></div>
+      
+  
+  </div>
+
+        </div>
+      </div>
+      <div class="col-lg-3 radix-layouts-sidebar panel-panel">
+        <div>
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /.bryant-flipped -->
+
+<div class="panel-display bartlett clearfix">
+  <div class="container-fluid layout">
+    <div class="row">
+      <div id="printlogo">
+        <div class="header-bg"/>
+        <div class="emblem" style="width:200px; float:left;">
+          <img src="/themes/custom/un_press_theme/assets/images/United_Nations_bw_hq.png" alt="United Nations"/>
+          <h5> United Nations</h5>
+        </div>
+      </div>
+      <div class="col-md-9 mb-2 panel-panel radix-layouts-main-column">
+                <div class="row">
+          <div class="col-6 radix-layouts-contentcolumn1 panel-panel left-header">
+            <div class="panel-panel-inner">
+              
+            </div>
+          </div>
+          <div class="col-6 radix-layouts-contentcolumn2 panel-panel right-header">
+            <div class="panel-panel-inner">
+              
+  <div class="block">
+
+  
+    
+
+      
+            <div class="field field--name-field-symbol field--type-string field--label-hidden field__item">SG/SM/21706</div>
+      
+  
+  </div>
+
+  <div class="block">
+
+  
+    
+
+      
+            <div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-03-04T12:00:00Z">4 March 2023</time>
+</div>
+      
+  
+  </div>
+
+            </div>
+          </div>
+          <div class="col-md-12 radix-layouts-content panel-panel main-column">
+            <div class="panel-panel-inner">
+              
+  <div class="block">
+
+  
+    
+
+      
+            <div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h1 class="page-header">‘Graduation Must Be a Reward, Never a Punishment’, Says Secretary-General at Leaders’ Summit of Least Developed Countries</h1>
+</div>
+      
+  
+  </div>
+
+  <div class="block">
+
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Following are UN Secretary-General António Guterres’ remarks to the leaders’ summit of the least developed countries at the fifth United Nations Conference on the Least Developed Countries, in Doha today:</p>
+
+<p>I want to deeply thank Qatar for hosting us in Doha — and for launching the Programme of Action for the Least Developed Countries.  I’m deeply grateful for the extraordinary generosity and hospitality of the Government and the people of Qatar.</p>
+
+<p>Countries with the least need support the most, and the need for support is something that is required now.  You represent 1 in 8 people on Earth.</p>
+
+<p>I have an enormous admiration for your remarkable efforts to achieve graduation and to sustain graduation.  But, your countries are also trapped in vicious cycles that make development difficult, and I can reassure you that we are perfectly aware of the inequities created by an unfair global economic and financial system and determined to change it by reforms and by adequate sources of support to least developed countries.</p>
+
+<p>Because economic development is challenging when countries are starved for resources, drowning in debt and still struggling with the historic injustice of an unequal COVID-19 response, starting with vaccines and then by the very unfair access to the resources needed for recovery.</p>
+
+<p>Human development is also challenging when education, health care and social‑protection systems are struggling and when women are denied their rightful place at the table across every aspect of civil, economic and political life.</p>
+
+<p>A thriving business community and the creation of decent jobs is challenging if economies are stuck in first gear — exporting raw materials without opportunities for structural transformation to rapidly move up the value chain.</p>
+
+<p>Combating climate catastrophe that you did nothing to cause is challenging when the cost of capital is sky-high and the financial support you receive to mitigate and adapt to the destruction is a drop in the bucket.  Meanwhile, bigger economies continue to heat our planet and spew greenhouse gas emissions at record rates.  Fossil fuel giants are raking in huge profits, while millions in your countries cannot put food on the table.</p>
+
+<p>You risk being left behind in the digital revolution without the support or technology you need for social and economic development or job creation.  Easing the cost-of-living crisis grows more difficult by the day, with the war in Ukraine accelerating the rise in prices of energy and food.</p>
+
+<p>Add the impacts of conflicts, droughts, hunger and extreme poverty, and the result is a perfect storm for perpetuating poverty and injustice.  We must end this storm.  But, we must recognize that to end this storm we require massive and sustained investment and least developed countries require and deserve massive financial and economic support.</p>
+
+<p>For your countries, progress on the Sustainable Development Goals — starting with the eradication of extreme poverty and ending hunger — is about more than lines on a chart leading to 2030.  It’s a matter of life and death and it is unacceptable if you are held back by processes and decisions that are made far beyond your borders.</p>
+
+<p>Indeed, our global financial system was designed by wealthy countries, largely to their benefit.  That is why we are insisting so strongly, namely with the G20, for its reform.</p>
+
+<p>Deprived of liquidity, many of you are locked out of capital markets by predatory interest rates.  Deprived of effective debt relief, you can be forced to spend an ever-growing share of Government revenue on debt service costs.</p>
+
+<p>Instead of the official development assistance at the levels that you need, most developed countries are falling short of their promise to provide 0.15 to 0.20 per cent of their gross national income to least developed countries.</p>
+
+<p>And countries that graduate to middle-income status are victims of the cruellest sleight-of-hand trick — where support systems vanish before their eyes.  Graduation must be a reward, never a punishment.</p>
+
+<p>In the midst of these injustices, the United Nations is working with you to develop smooth transition strategies, based on tailored support for the graduation process.</p>
+
+<p>We cannot allow countries to fall back down the development ladder after working so hard to climb it.  That is why the Doha Programme of Action includes an online university to provide your countries with better access to science, expertise and technology to develop more innovative and diverse economies and workforces.</p>
+
+<p>At this time of widespread food insecurity, the creation of a food stockholding system for least developed countries will be another tangible outcome of this Summit to combat hunger and skyrocketing food prices.</p>
+
+<p>The Doha Programme of Action also includes the establishment of an international investment support centre to help least developed and graduated countries attract foreign investment.</p>
+
+<p><em>Et à la séance plénière de demain, je présenterai un certain nombre de mesures essentielles destinées à concrétiser les objectifs de ce Programme d’action.</em></p>
+
+<p><em>Au cœur de nos efforts se trouve le Plan de relance des ODD, qui nous avons présenté au G20, et un plan que requiert une augmentation significative du financement du développement durable, en vue d’atteindre au minimum 500 milliards de dollars par an.</em></p>
+
+<p><em>Le Plan de relance vise également à maîtriser le coût élevé de la dette, à travers des efforts visant à réduire les taux d’intérêt, tout en améliorant les conditions de prêt fixées par les banques multilatérales de développement.</em></p>
+
+<p><em>Enfin, il vise à étendre les financements d’urgence aux pays qui en ont besoin, notamment en intégrant dans les instruments de prêt des clauses relatives aux catastrophes et aux pandémies, et en accélérant la reallocation des Droits de tirage spéciaux, qui ont été émis et qui ont bénéficié sur tout le pays le plus riche.</em></p>
+
+<p><em>Nous continuerons par ailleurs à faire pression pour obtenir les ressources déjà promises destinées à l’adaptation aux changements climatiques, à une transition énergétique juste et au fonds pour les pertes et dommages, ainsi qu’à la mise en place de systèmes d’alerte précoce pour chaque personne d’ici 2027 face aux risques des catastrophe naturelles.</em></p>
+
+<p><em>Nous devons également mettre en place un système fiscal plus équitable et lutter contre les flux financiers illicites, le blanchiment d’argent et la fraude fiscale, qui drainent les ressources nationales des pays en développent.</em></p>
+
+<p><em>Et nous devons trouver des méthodes nouvelles et de bon sens pour mesurer l’économie des pays, par exemple en définissant des critères de prêt qui ne se limitent pas au produit intérieur brut afin de donner une image fidèle de la valeur du capital naturel, comme la préservation des forêts, des bassins et des ressources marines.</em></p>
+
+<p><em>Aujourd’hui, lorsque nous détruisons des forêts, que nous exploitons à l’excès les stocks de poissons ou que nous brûlons des combustibles fossiles, nous faisons croître le produit intérieur brut.</em></p>
+
+<p><em>Dans le même temps, de larges pans de l’économie des services à la personne particulièrement pour les pays en développent, ne sont même pas pris en compte.</em></p>
+
+<p><em>Cela n’a aucun sens.  On mesure du développement d’une façon complètement erronée.  Le moment est venu de rendre justice aux pays les moins avancés.</em></p>
+
+<p><em>Œuvrons ensemble afin de trouver de nouvelles voies pour aider vos populations.  Faisons de la catégorie des pays les moins avancés un vestige du passé.</em></p></div>
+      
+  
+  </div>
+
+  <div class="block inline taxonomy-term">
+
+  
+    
+
+      
+      <div class="field field--name-field-theme field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><a href="/en/development" hreflang="en">Development</a></div>
+          </div>
+  
+  
+  </div>
+
+  <div class="block inline taxonomy-term">
+
+  
+    
+
+      
+      <div class="field field--name-field-main-tags field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><a href="/ldc5" hreflang="und">#LDC5</a></div>
+          </div>
+  
+  
+  </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Sidebar -->
+      <aside class="col-md-3 mb-2 radix-layouts-sidebar panel-panel">
+        <div class="panel-panel-inner">
+          
+  <div class="views-element-container block">
+
+  
+            <h2>Highlights</h2>
+        
+
+      <div>
+<div class="view js-view-dom-id-e1825d7e8a00c6d0fb1f4d63cb6540b957a2b4c65f92143aaa01c30924cdc8a1 view-highlights">
+
+        
+        
+        
+            <div class="view-content">
+        
+
+
+
+  
+
+
+
+
+    <div class="views-row">
+          <div class="media media--type-highlight media--view-mode-highlights-block-item">
+  
+      <div class="media row g-2">
+      <div class="media-image col-3 align-self-center">
+                  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  
+<img loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/01/ga.jpg?itok=yuMYn2Dm" width="60" height="60" alt="General Assembly Hall" class="img-fluid"/>
+
+
+</div>
+      
+        
+              </div>
+      <div class="media-body col-9">
+                <a href="/en/2023/ga12487.doc.htm">
+          
+            <div class="field field--name-name field--type-string field--label-hidden field__item">Highlights of General Assembly 77th Session</div>
+      
+        </a>
+                
+            <div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 21 Sep - 30 Dec 2022</div>
+      
+      </div>
+    </div>
+  </div>
+
+      </div>
+    <div class="views-row">
+          <div class="media media--type-highlight media--view-mode-highlights-block-item">
+  
+      <div class="media row g-2">
+      <div class="media-image col-3 align-self-center">
+                  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  
+<img loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/09/UNGA78_Highlight.png?itok=BCC6cvVH" width="60" height="60" alt="UNGA 78 logo" class="img-fluid"/>
+
+
+</div>
+      
+        
+              </div>
+      <div class="media-body col-9">
+                <a href="/en/highlights/UNGA78">
+          
+            <div class="field field--name-name field--type-string field--label-hidden field__item">High-level meetings of the 78th session of the General Assembly</div>
+      
+        </a>
+                
+            <div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 19-26 September 2023</div>
+      
+      </div>
+    </div>
+  </div>
+
+      </div>
+    <div class="views-row">
+          <div class="media media--type-highlight media--view-mode-highlights-block-item">
+  
+      <div class="media row g-2">
+      <div class="media-image col-3 align-self-center">
+                  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  
+<img loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/01/MicrosoftTeams-image%20%281%29.jpg?itok=J_z1l6Qz" width="60" height="60" alt="Security Council Thumbnail" class="img-fluid"/>
+
+
+</div>
+      
+        
+              </div>
+      <div class="media-body col-9">
+                <a href="/en/2023/sc15172.doc.htm">
+          
+            <div class="field field--name-name field--type-string field--label-hidden field__item">Security Council 2022 Round-Up</div>
+      
+        </a>
+                
+            <div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 2022</div>
+      
+      </div>
+    </div>
+  </div>
+
+      </div>
+    <div class="views-row">
+          <div class="media media--type-highlight media--view-mode-highlights-block-item">
+  
+      <div class="media row g-2">
+      <div class="media-image col-3 align-self-center">
+                  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  
+<img loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/03/2023%20Water%20Conference%20Highlight.png?itok=RHCHTXd3" width="60" height="60" alt="2023 Water Conference" class="img-fluid"/>
+
+
+</div>
+      
+        
+              </div>
+      <div class="media-body col-9">
+                <a href="/en/highlights/WaterAction">
+          
+            <div class="field field--name-name field--type-string field--label-hidden field__item">United Nations  Water Conference</div>
+      
+        </a>
+                
+            <div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 22-24 March 2023</div>
+      
+      </div>
+    </div>
+  </div>
+
+      </div>
+    <div class="views-row">
+          <div class="media media--type-highlight media--view-mode-highlights-block-item">
+  
+      <div class="media row g-2">
+      <div class="media-image col-3 align-self-center">
+                  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  
+<img loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/03/CSW67%20Highlight_0.png?itok=-Zhf2u0z" width="60" height="60" alt="CSW67" class="img-fluid"/>
+
+
+</div>
+      
+        
+              </div>
+      <div class="media-body col-9">
+                <a href="/en/highlights/CSW67">
+          
+            <div class="field field--name-name field--type-string field--label-hidden field__item">Sixty-Seventh Session of the Commission on the Status of Women</div>
+      
+        </a>
+                
+            <div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 6-17 March 2023</div>
+      
+      </div>
+    </div>
+  </div>
+
+      </div>
+    <div class="views-row">
+          <div class="media media--type-highlight media--view-mode-highlights-block-item">
+  
+      <div class="media row g-2">
+      <div class="media-image col-3 align-self-center">
+                  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  
+<img loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/03/LDC5%20logo.jpg?itok=DObZ8qFm" width="60" height="60" alt="LDC5 logo" class="img-fluid"/>
+
+
+</div>
+      
+        
+              </div>
+      <div class="media-body col-9">
+                <a href="/en/highlights/LDC5">
+          
+            <div class="field field--name-name field--type-string field--label-hidden field__item"> Fifth United Nations Conference on the Least Developed Countries</div>
+      
+        </a>
+                
+            <div class="field field--name-field-date-location field--type-string field--label-hidden field__item">Doha, 5-9 March 2023</div>
+      
+      </div>
+    </div>
+  </div>
+
+      </div>
+
+      </div>
+      
+            
+        
+        
+        </div>
+</div>
+
+  
+  </div>
+
+<div class="grey-bg noon-briefing-block">
+
+
+  
+            <h2>Daily Noon Briefing</h2>
+        
+
+      <div>
+<div class="view js-view-dom-id-01226a8743363fc902953aebd42557a27252eb3531bea789764e079746e3a461 view-home-press">
+
+        
+        
+        
+            <div class="view-content">
+        
+
+
+
+  
+
+
+
+
+    <div class="views-row">
+          <div class="views-field views-field-view-node-1"><span class="field-content"><img src="/themes/custom/un_press_theme/assets/images/noon-briefing-image.jpg" alt="UN Spokesperson Stéphane Dujarric" class="img-responsive"/></span></div><div class="views-field views-field-view-node"><span class="field-content"><a href="/en/2023/db231006.doc.htm" hreflang="en"><time datetime="2023-10-06T12:00:00Z">6 October 2023</time>
+</a></span></div><div class="views-field views-field-body"><p class="field-content"/><p>The UN Humanitarian Coordinator in Ukraine, Denise Brown, visited Hroza today, less than 24 hours after an attack that killed dozens of civilians — calling it a barbaric consequence of the war that 20 per cent of a community can be wiped out in mere seconds.  The UN is mobilizing humanitarian aid to civilians in the area.</p></div>
+      </div>
+
+      </div>
+      
+            
+        
+            <div class="view-footer">
+        <div class="more-link"><a href="https://press.un.org/en/content/noon-briefings">Latest Noon Briefings</a></div>
+
+      </div>
+      
+        </div>
+</div>
+
+  
+</div>
+
+        </div>
+      </aside>
+
+    </div>
+  </div>
+</div><!-- /.bartlett -->
+
+    </div>
+  </article>
+
+<div class="field field-name-disclaimer">
+  <span class="disclaimer">For information media. Not an official record.</span>
+</div>
+
+  
+  </div>
+
+
+        </div>
+      </div>
+      </main>
+
+      <footer class="page__footer-tabs">
+      <div class="container">
+        <div class="row">
+            
+  <div class="block block--resourcesandtools block--system-menu">
+
+  
+            <h2>Resources</h2>
+        
+
+      
+  
+
+
+  <ul class="nav">
+                          
+                                  
+        <li class="nav-item">
+                      <a href="https://journal.un.org/en" class="nav-link" title="Journal">Journal</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://www.un.org/en/events-and-news" class="nav-link" title="Conferences &amp; Events">Conferences &amp; Events</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://www.un.org/en/media/accreditation/alert.shtml" class="nav-link" title="Media Alert">Media Alert</a>
+                  </li>
+            </ul>
+
+
+  
+  </div>
+
+  <div class="block block--newsandmediaresources block--system-menu">
+
+  
+            <h2>News &amp; Media Resources</h2>
+        
+
+      
+  
+
+
+  <ul class="nav">
+                          
+                
+        <li class="nav-item">
+                      <a href="https://news.un.org/en/" title="Global perspective Human stories" class="nav-link">UN News</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://media.un.org/en/webtv" class="nav-link" title="Webcast">Webcast</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="http://www.unmultimedia.org/photo/" class="nav-link" title="Photo">Photo</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="http://www.unmultimedia.org/" class="nav-link" title="Multimedia">Multimedia</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="http://www.un.org/media/accreditation/" title="Media Accreditation" class="nav-link">Media Accreditation</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://www.unmultimedia.org/" class="nav-link" title="Television">Television</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="http://www.unmultimedia.org/tv/unifeed/" title="UNIFEED" class="nav-link">UNIFEED</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="http://www.un.org/sg/spokesperson/" title="Spokesperson for the Secretary-General" class="nav-link">Spokesperson for the Secretary-General</a>
+                  </li>
+            </ul>
+
+
+  
+  </div>
+
+  <div class="block block--quicklinks block--system-menu">
+
+  
+            <h2>Quick Links</h2>
+        
+
+      
+  
+
+
+  <ul class="nav">
+                          
+                                  
+        <li class="nav-item">
+                      <a href="/en/content/general-assembly" class="nav-link" title="General Assembly section link" data-drupal-link-system-path="content/general-assembly">General Assembly</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="/en/content/security-council" class="nav-link" title="Security Council section link" data-drupal-link-system-path="content/security-council">Security Council</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="/en/content/economic-and-social-council" class="nav-link" title="ECOSOC section link" data-drupal-link-system-path="content/economic-and-social-council">Economic and Social Council</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="/en/content/secretary-general" class="nav-link" title="Secretary-General section link" data-drupal-link-system-path="content/secretary-general">Secretary-General</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="/en/content/noon-briefings" class="nav-link" title="Latest Noon Briefing section link" data-drupal-link-system-path="content/noon-briefings">Latest Noon Briefing</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="/en/content/meetings-coverage" class="nav-link" title="Meetings Coverage section link" data-drupal-link-system-path="content/meetings-coverage">Meetings Coverage</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="/en/content/press-release" class="nav-link" title="Press Releases section link" data-drupal-link-system-path="content/press-release">Press Releases</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="/en/content/press-conference" class="nav-link" title="Meetings Coverage section link" data-drupal-link-system-path="content/press-conference">Press Conferences</a>
+                  </li>
+            </ul>
+
+
+  
+  </div>
+
+
+        </div>
+      </div>
+    </footer>
+        <footer class="page__footer">
+      <div class="container">
+        <div class="row d-flex justify-content-between align-items-md-center">
+          <div class="col-4 col-md-4 col-lg-5 col-xl-6 footer-brand">
+            <a href="https://www.un.org/en" title="Home">
+              <span class="site-name">United Nations</span></a>
+          </div>
+          <div class="col-8 col-md-8 col-lg-7 col-xl-6 justify-content-end">
+            <div class="row">
+              <div class="col-12 col-md-8 d-flex align-items-md-center menu-social">
+                <div class="social-media">
+                  <a href="https://www.un.org/en/get-involved/social-media/" target="_blank" class="footer-link">Join the conversation:</a>
+                    
+  <div class="block block--footersocialmenu block--system-menu">
+
+  
+    
+
+      
+  
+
+
+  <ul class="nav">
+                          
+                                  
+        <li class="nav-item">
+                      <a href="https://www.facebook.com/unitednations" class="nav-link"><i class="fab fa-facebook-square"/><span class="sr-only">Facebook</span></a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://twitter.com/UNMediaLiaison" class="nav-link"><i class="fab fa-twitter"/><span class="sr-only">Twitter</span></a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw" class="nav-link"><i class="fab fa-youtube-square"/><span class="sr-only">Youtube</span></a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="/en/rss.xml" class="nav-link" data-drupal-link-system-path="rss.xml"><i class="fa fa-rss"/><span class="sr-only">RSS</span></a>
+                  </li>
+            </ul>
+
+
+  
+  </div>
+
+
+                </div>
+              </div>
+              <div class="col-12 col-md-4 d-flex align-items-md-center justify-content-md-end donate-wrapper">
+                <div class="donate">
+                  <a href="https://www.un.org/en/about-us/how-to-donate-to-the-un-system/" target="_blank" class="btn btn-default btn-reverse dark" role="button" id="donate_button">Donate</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+        <footer class="page__footer-bottom">
+      <div class="container">
+        <div class="row d-flex justify-content-md-end align-items-md-center">
+          <div class="col-12">
+              
+  <div class="block block--ungloballinksfootermenu block--system-menu">
+
+  
+    
+
+      
+  
+
+
+  <ul class="nav">
+                          
+                                  
+        <li class="nav-item">
+                      <a href="http://www.un.org/en/siteindex/" class="nav-link" title="Site Index">A-Z Site Index</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://www.un.org/en/contact-us-0" class="nav-link" title="Help">Contact</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="http://www.un.org/en/aboutun/copyright/" title="Copyright" class="nav-link">Copyright</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://www.un.org/en/about-us/frequently-asked-questions" class="nav-link">FAQ</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="http://www.un.org/en/aboutun/fraudalert/" title="Fraud Alert" class="nav-link">Fraud Alert</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="http://www.un.org/en/aboutun/privacy/" title="Privacy Notice" class="nav-link">Privacy Notice</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://www.un.org/en/aboutun/terms" class="nav-link" title="Terms of Use">Terms of Use</a>
+                  </li>
+            </ul>
+
+
+  
+  </div>
+
+
+          </div>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+<div class="minimal-share-panel">
+  <p class="minimal-share"><a href="https://www.facebook.com/sharer.php?u=https://press.un.org/en/2023/sgsm21706.doc.htm" title="Share this via Facebook" class="facebook" data-ms="facebook">Facebook</a>
+<a href="https://twitter.com/intent/tweet?text=‘Graduation Must Be a Reward, Never a Punishment’, Says Secretary-General at Leaders’ Summit of Least Developed Countries&amp;url=https://press.un.org/en/2023/sgsm21706.doc.htm" title="Share this via Twitter" class="twitter" data-ms="twitter">Twitter</a>
+<a href="mailto:?subject=‘Graduation Must Be a Reward, Never a Punishment’, Says Secretary-General at Leaders’ Summit of Least Developed Countries&amp;body=https://press.un.org/en/2023/sgsm21706.doc.htm" title="Share this via Email" class="email" data-ms="email">Email</a>
+<a href="" title="Share this via Print" class="print" data-ms="print">Print</a>
+<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://press.un.org/en/2023/sgsm21706.doc.htm&amp;title=‘Graduation Must Be a Reward, Never a Punishment’, Says Secretary-General at Leaders’ Summit of Least Developed Countries" title="Share this via LinkedIn" class="linkedin" data-ms="linkedin">LinkedIn</a>
+</p>
+
+</div>
+
+  </div>
+
+    <script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"US","siteName":"UN Press","entityCreated":"1678004476","entityLangcode":"en","entityType":"node","entityBundle":"press","entityId":"315037","entityTitle":"‘Graduation Must Be a Reward, Never a Punishment’, Says Secretary-General at Leaders’ Summit of Least Developed Countries","field_country":"","doc_date":"2023-03-04","doc_type":"Press Release","added_un_bodies":"","main_tags":"#LDC5","regions":"","symbol":{"type":"string","value":["SG\/SM\/21706"]},"campaign_id":"#LDC5","theme":"Development","un_bodies":"Statements and Messages","userUid":0});</script>
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"en\/","currentPath":"node\/315037","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","themeUrl":"themes\/custom\/un_press_theme"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0},"fr":{"id":"fr","name":"French","direction":"ltr","weight":1}}},"minimalShare":{"sizes":{"linkedin":{"width":520,"height":570},"twitter":{"width":600,"height":260},"facebook":{"width":600,"height":500}}},"ajaxTrustedUrl":{"\/en\/sitesearch":true},"user":{"uid":0,"permissionsHash":"d429094e8101c7fbbf66cf85f7616354d19f2337c642528ef74c3443208d6269"}}</script>
+<script src="/sites/default/files/js/js_juxljz0RQrYzNbLYGedStiDdGc6bDfgJra9t5d5V9b8.js"/>
+
+  </body>
+</html>

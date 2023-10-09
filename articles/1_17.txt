@@ -1,0 +1,1085 @@
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8"/>
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="icon" href="/themes/custom/un_press_theme/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="alternate" hreflang="en" href="https://press.un.org/en/2021/dev3440.doc.htm"/>
+<link rel="canonical" href="https://press.un.org/en/2021/dev3440.doc.htm"/>
+<link rel="shortlink" href="https://press.un.org/en/node/292940"/>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&amp;l='+l:'';j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+'';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NWVSS4R');</script>
+
+    <title>World’s Poorest Nations Need International Support, Experts Tell Preparatory Committee, as E-Commerce, Global Market Access Take Centre Stage | UN Press</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_Z_Ufss9ZdTGXi-ei_QU5R8G2SwQCzFUGGvp_tDZXWXk.css"/>
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_SG2VqkisULL-jcdvCik8Fl-Wjr62fAk8Mk2BiBICszI.css"/>
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;600;700&amp;display=swap"/>
+<link rel="stylesheet" media="all" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css"/>
+
+    
+  </head>
+  <body class="node-292940 node-type--press">
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NWVSS4R" height="0" width="0" style="display:none;visibility:hidden"/></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    <div class="page">
+  <header class="main-header">
+  <div class="page-loader"/>
+  <div class="container-fluid brandbar-header fixed-top">
+    <div class="container">
+      <div class="row justify-content-around align-items-center">
+        <div class="col-8 col-sm-3">
+                        
+  <div class="block block--un-press-theme-branding block--system-branding">
+
+  
+    
+
+      
+  <a href="/en" class="navbar-brand d-flex align-items-center block--system-branding" aria-label="">
+        
+  </a>
+
+  
+  </div>
+
+
+            <a class="navbar-brand" href="https://www.un.org/en"><i class="home-icon fas fa-home fa-lg"/> Welcome to the United Nations</a>
+                  </div>
+        <div class="col-4 col-sm-9 d-flex justify-content-end language-switcher">
+                        
+  <div class="language-switcher-language-url block block--languageswitcher" role="navigation">
+
+  
+    
+
+      <div class="language-wrapper">
+  <button class="navbar-toggler language-button d-block d-md-none" type="button" data-bs-toggle="collapse" data-bs-target=".links.nav" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle language"><span class="title">Language:</span>
+  <span class="navbar-toggler-icon"/>
+</button>
+</div>
+
+  
+  </div>
+
+
+                  </div>
+      </div>
+    </div>
+  </div>
+  <div class="navbar-wrapper">
+    <div class="container">
+      <div class="row justify-content-around align-items-center">
+        <div class="col-12 col-lg-9 d-flex branding-top-wrapper">
+                    <a class="logo navbar-btn pull-left flip" href="https://www.un.org/en" title="United Nations"/>
+          <a class="navbar-brand pull-left flip" href="https://press.un.org/en">Meetings Coverage and Press Releases</a>
+        </div>
+        <div class="col-12 col-lg-3 justify-content-end search-wrapper d-none d-md-block">
+                                      
+  <div class="views-exposed-form bef-exposed-form needs-validation block block--exposedformsitesearchpage-1" data-drupal-selector="views-exposed-form-sitesearch-page-1">
+
+  
+    
+
+      
+<form action="/en/sitesearch" method="get" id="views-exposed-form-sitesearch-page-1" accept-charset="UTF-8" class="form">
+  <div class="js-form-item form-item js-form-type-textfield form-item-search-api-fulltext js-form-item-search-api-fulltext form-group">
+      
+  
+  
+  
+  
+  
+<input data-drupal-selector="edit-search-api-fulltext" type="text" id="edit-search-api-fulltext" name="search_api_fulltext" value="" size="30" maxlength="128" class="form-textfield form-control"/>
+<label class="sr-only" for="edit-search-api-fulltext">Search</label>
+<label class="sr-only" for="edit-search-api-fulltext--2">Search</label>
+
+
+  
+  
+  
+  
+  </div>
+<fieldset data-drupal-selector="edit-sort-by" id="edit-sort-by--wrapper" class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper mb-3">
+    
+      <legend class="fieldset-legend m-0">
+      Sort By</legend>
+  
+  <div class="fieldset-wrapper">
+                <div id="edit-sort-by" class="form-radios"><div class="form-radios">
+                  <div class="js-form-item form-item js-form-type-radio form-item-sort-by js-form-item-sort-by form-check">
+  
+<input data-drupal-selector="edit-sort-by-field-dated" type="radio" id="edit-sort-by-field-dated" name="sort_by" value="field_dated" checked="checked" class="form-radio form-check-input"/>
+
+
+  <label class="form-check-label option" for="edit-sort-by-field-dated">Most Recent Entries</label>
+
+  
+  </div>
+
+                    <div class="js-form-item form-item js-form-type-radio form-item-sort-by js-form-item-sort-by form-check">
+  
+<input data-drupal-selector="edit-sort-by-search-api-relevance" type="radio" id="edit-sort-by-search-api-relevance" name="sort_by" value="search_api_relevance" class="form-radio form-check-input"/>
+
+
+  <label class="form-check-label option" for="edit-sort-by-search-api-relevance">Most Relevant Entries</label>
+
+  
+  </div>
+
+      </div>
+</div>
+
+          </div>
+</fieldset>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+
+<input data-drupal-selector="edit-submit-sitesearch" type="submit" id="edit-submit-sitesearch" value="Search" class="js-form-submit form-submit btn btn-primary"/>
+</div>
+
+
+</form>
+
+  
+  </div>
+
+
+                              </div>
+      </div>
+    </div>
+  </div>
+  <div class="nav-wrapper">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+                      <div class="menu-container bg-dark">
+              <div class="menu-main">
+                
+
+
+<nav class="navbar navbar-expand-lg justify-content-between  ">
+  
+
+
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"/>
+  </button>
+
+  <div class="collapse navbar-collapse">
+                          
+  <div class="block block--mainenglishmenu block--system-menu">
+
+  
+    
+
+      
+  
+
+
+  <ul class="nav">
+                          
+                
+        <li class="nav-item">
+                      <a href="/en" title="" class="nav-link" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+                  </li>
+                      
+                
+        <li class="nav-item dropdown">
+                      <a href="/en/content/secretary-general" title="Secretary-General" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-drupal-link-system-path="content/secretary-general">Secretary-General</a>
+                          <div class="dropdown-menu">
+              <a href="/en/content/secretary-general" title="Latest Press Release, Statements etc. from the Secretary General" class="dropdown-item" data-drupal-link-system-path="content/secretary-general">Latest</a>
+              <a href="/en/content/secretary-general/press-release" title="Secretary General Press Releases" class="dropdown-item" data-drupal-link-system-path="content/secretary-general/press-release">Press Releases</a>
+              <a href="/en/content/secretary-general/press-conference" title="Secretary Genral Press Conferences" class="dropdown-item" data-drupal-link-system-path="content/secretary-general/press-conference">Press Conferences</a>
+  </div>
+                              </li>
+                      
+                
+        <li class="nav-item dropdown">
+                      <a href="/en/content/general-assembly" title="General Assembly" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-drupal-link-system-path="content/general-assembly">General Assembly</a>
+                          <div class="dropdown-menu">
+              <a href="/en/content/general-assembly" title="" class="dropdown-item" data-drupal-link-system-path="content/general-assembly">Latest</a>
+              <a href="/en/content/general-assembly/meetings-coverage" title="General Assembly Meetings Coverage" class="dropdown-item" data-drupal-link-system-path="content/general-assembly/meetings-coverage">Meetings Coverage</a>
+              <a href="/en/content/general-assembly/press-release" title="General Assembly Press Releases" class="dropdown-item" data-drupal-link-system-path="content/general-assembly/press-release">Press Releases</a>
+  </div>
+                              </li>
+                      
+                
+        <li class="nav-item dropdown">
+                      <a href="/en/content/security-council" title="Security Council" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-drupal-link-system-path="content/security-council">Security Council</a>
+                          <div class="dropdown-menu">
+              <a href="/en/content/security-council" title="" class="dropdown-item" data-drupal-link-system-path="content/security-council">Latest</a>
+              <a href="/en/content/security-council/meetings-coverage" title="" class="dropdown-item" data-drupal-link-system-path="content/security-council/meetings-coverage">Meetings Coverage</a>
+              <a href="/en/content/security-council/press-release" title="" class="dropdown-item" data-drupal-link-system-path="content/security-council/press-release">Press Releases</a>
+              <a href="/en/content/security-council/press-conference" title="" class="dropdown-item" data-drupal-link-system-path="content/security-council/press-conference">Press Conferences</a>
+  </div>
+                              </li>
+                      
+                
+        <li class="nav-item dropdown">
+                      <a href="/en/content/economic-and-social-council" title="Economic and Social Council" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-drupal-link-system-path="content/economic-and-social-council">Economic and Social Council</a>
+                          <div class="dropdown-menu">
+              <a href="/en/content/economic-and-social-council" title="" class="dropdown-item" data-drupal-link-system-path="content/economic-and-social-council">Latest</a>
+              <a href="/en/content/economic-and-social-council/meetings-coverage" title="" class="dropdown-item" data-drupal-link-system-path="content/economic-and-social-council/meetings-coverage">Meetings Coverage</a>
+              <a href="/en/content/economic-and-social-council/press-release" title="" class="dropdown-item" data-drupal-link-system-path="content/economic-and-social-council/press-release">Press Releases</a>
+  </div>
+                              </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="https://www.icj-cij.org/en/press-releases" title="" class="nav-link"> International Court of Justice</a>
+                  </li>
+            </ul>
+
+
+  
+  </div>
+
+
+                    </div>
+
+  </nav>
+              </div>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+  <main class="">
+    <a id="main-content" tabindex="-1"/>
+          <div class="page__content">
+        <div class="container">
+            <div data-drupal-messages-fallback="" class="hidden"/>
+  <div class="block block--un-press-theme-content block--system-main">
+
+  
+    
+
+      
+
+
+
+<article role="article" class="node press press--full">
+  
+  
+
+      
+    
+    <div class="node__content">
+      
+<div class="panel-display bryant-flipped clearfix">
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-9 radix-layouts-content panel-panel">
+        <div class="panel-panel-inner">
+		  
+  <div class="block inline print-sub-head">
+
+  
+    
+
+      
+            <div class="field field--name-field-doctype field--type-entity-reference field--label-hidden field__item"><a href="/en/press-release" hreflang="en">Press Release</a></div>
+      
+  
+  </div>
+
+        </div>
+      </div>
+      <div class="col-lg-3 radix-layouts-sidebar panel-panel">
+        <div>
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /.bryant-flipped -->
+
+<div class="panel-display bartlett clearfix">
+  <div class="container-fluid layout">
+    <div class="row">
+      <div id="printlogo">
+        <div class="header-bg"/>
+        <div class="emblem" style="width:200px; float:left;">
+          <img src="/themes/custom/un_press_theme/assets/images/United_Nations_bw_hq.png" alt="United Nations"/>
+          <h5> United Nations</h5>
+        </div>
+      </div>
+      <div class="col-md-9 mb-2 panel-panel radix-layouts-main-column">
+                <div class="row">
+          <div class="col-6 radix-layouts-contentcolumn1 panel-panel left-header">
+            <div class="panel-panel-inner">
+              
+  <div class="block inline">
+
+  
+    
+
+      
+            <div class="field field--name-field-meeting-session field--type-string field--label-hidden field__item"> LDC5 Preparatory Committee, First Session</div>
+      
+  
+  </div>
+
+  <div class="block inline">
+
+  
+    
+
+      
+            <div class="field field--name-field-meeting-info field--type-string field--label-hidden field__item"> </div>
+      
+  
+  </div>
+
+            </div>
+          </div>
+          <div class="col-6 radix-layouts-contentcolumn2 panel-panel right-header">
+            <div class="panel-panel-inner">
+              
+  <div class="block">
+
+  
+    
+
+      
+            <div class="field field--name-field-symbol field--type-string field--label-hidden field__item">DEV/3440</div>
+      
+  
+  </div>
+
+  <div class="block">
+
+  
+    
+
+      
+            <div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2021-05-27T12:00:00Z">27 May 2021</time>
+</div>
+      
+  
+  </div>
+
+            </div>
+          </div>
+          <div class="col-md-12 radix-layouts-content panel-panel main-column">
+            <div class="panel-panel-inner">
+              
+  <div class="block">
+
+  
+    
+
+      
+            <div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h1 class="page-header">World’s Poorest Nations Need International Support, Experts Tell Preparatory Committee, as E-Commerce, Global Market Access Take Centre Stage</h1>
+</div>
+      
+  
+  </div>
+
+  <div class="block">
+
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>The world’s poorest nations need international support to build their digital infrastructure and reskill their workforce so that they can better integrate into the sprawling global value chain, speakers told the Preparatory Committee for the fifth United Nations Conference on the Least Developed Countries today.</p>
+
+<p>“Inclusive global value chains bring vast new trading opportunities to developing economies, allowing their firms and workers to carve out niche specialties in the global economy,” said Emily Blanchard, Associate Professor at the Tuck School of Business at Dartmouth College, during a morning panel discussion on the theme, “Enhancing international trade of least developed countries and regional integration”.</p>
+
+<p>She urged the Governments of least developed countries to “swim with the current”, not against it, and to embrace fluidity by helping businesses and workers adjust to rapid changes in economic opportunities.</p>
+
+<p>The panel discussion was held as part of the preparatory process to draft a successor framework to the 2011 Istanbul Programme of Action, ahead of its adoption at the fifth United Nations Conference in Doha next January.</p>
+
+<p>A.K. Abdul Momen, Foreign Minister of Bangladesh, said the new Programme of Action must focus on product diversification, value addition, structural transformation and development of a knowledge and technology-based manufacturing sector.  He recommended, among other things, providing least developed countries with technical capacity and infrastructure support so they can “move up” the value chains, strengthen and diversify their export bases and build resilience against future shocks.</p>
+
+<p>However, exporting high-value-added goods is a tall order for least developed countries, due to their lack of access to markets, said Edward Hinga Sandy, Minister for Trade and Industry of Sierra Leone.  He emphasized that e-commerce could open new avenues for their integration into the global trade and value chain.</p>
+
+<p>Indeed, workers in the manufacturing sector will not become coders overnight, said Rubana Haque, former President of the Bangladesh Garments Manufactures Association.  She called for reskilling of the workforce so employees can jump on the bandwagon of the fourth industrial revolution.  Least developed countries need “a lot of handholding” in such skill transfer, she asserted.</p>
+
+<p>Shishir Priyadarshi, Director of the Development Division at the World Trade Organization (WTO), said the next 10-year Programme must be set by beneficiaries themselves and include small milestones and a mechanism of insurance against crises.  To achieve results in WTO negotiations, least developed countries with minimal resources must adopt “the woodpecker approach” and persist.</p>
+
+<p>Also speaking in the morning were the co-chairs, as well as representatives of Malawi, Lesotho, United Kingdom and the WTO Enhanced Integrated Framework.</p>
+
+<p>In the afternoon, the Preparatory Committee held another panel discussion, under the theme, “Supporting our climate recovery from the COVID-19 pandemic and building a resilient society against future shocks”.</p>
+
+<p>The Preparatory Committee will reconvene at 10 a.m. on Friday, 28 May, to continue its first session.</p>
+
+<p><u>Panel 4</u></p>
+
+<p>In the morning, the Preparatory Committee held a panel discussion on the theme, “Enhancing international trade of least developed countries and regional integration”.</p>
+
+<p>Co-chaired by Amrit Bahadur Rai (Nepal) and Julio César Arriola Ramírez (Paraguay), the discussion featured keynote speakers, A.K. Abdul Momen, Foreign Minister of Bangladesh, and Edward Hinga Sandy, Minister of Trade and Industry of Sierra Leone, as well as panellists, Shishir Priyadarshi, Director, Development Division, World Trade Organization (WTO); Emily Blanchard, Associate Professor at the Tuck School of Business at Dartmouth College; and Rubana Haque, former President, Bangladesh Garments Manufactures Association.</p>
+
+<p>Mr. RAMÍREZ said international trade is vitally important for least developed countries because an open, fair, rules-based and predictable multilateral trading system can accelerate economic growth, generate employment and build a more inclusive future for all.  However, their share of global trade remains at 1 per cent, against the 2 per cent target set under the Istanbul Programme of Action.  In addition, the COVID-19 pandemic has severely undermined their exports.  And while e-commerce holds huge potential, least developed countries lack the information and communications technology infrastructure needed to expand e-commerce.  In that context, he drew attention to the WTO Trade Facilitation Agreement, which can play an important role in reducing trade costs and increasing the participation of least developed countries in global trade.  Regional cooperation, trade integration and transit cooperation can also facilitate their involvement; however, least developed countries need support in order to reap the potential offered by global trade.</p>
+
+<p>Mr. MOMEN, recalling his own participation in negotiations on the Istanbul Programme, said that the issue of trade was at the centre of debate — and the last item to be resolved in Istanbul through strenuous discussions.  The next Programme of Action must focus on product diversification, value addition, structural transformation and development of a knowledge and technology-based manufacturing sector.  Least developed countries need support to build their digital ecosystem with digital infrastructure and e-commerce platforms in order to reap the benefits of e-commerce and global value chains.  Recalling that Bangladesh celebrated its graduation from the list of least developed countries with pride and compassion, he nonetheless reminded the Preparatory Committee that graduation brings with it many challenges, as countries lose specific support.  At the WTO, Bangladesh and others submitted a proposal to extend group-specific support for 12 years after graduation, he said, urging Member States to favourably consider this submission.</p>
+
+<p>In addition, he proposed continuing duty-free, quota-free market access to these States, which would minimize non-tariff and other barriers.  He also recommended providing technical capacity and infrastructure-building support so countries can “move up” the value chains, strengthen and diversify their export bases and build resilience against future shocks.  He also called for measures to make graduation “smooth and sustainable”, by providing targeted assistance to countries that will lose eligibility to various types of international support.</p>
+
+<p>Mr. SANDY acknowledged that international development and trade have undergone significant change, with progress on trade facilitation, the dismantlement of trade barriers and the formulation of a new trade governance architecture.  However, the share of least developed countries in global trade remains at 1 per cent due in part to supply constraints.  Because they lack market access, exporting high-value-added goods becomes difficult.  Another challenge for these countries is their limited diversification.  As they are dependent on one or two commodities only, the economic transformation that empowers women, youth and small businesses is critical.  E-commerce can open new avenues for integrating least developed countries into global trade and value chains, and thus, supporting their graduation.  E-commerce is also a bridge between small low-income countries and regional and global markets, helping them foster new sectors and business models, he said, urging least developed countries to explore new ways of doing business.</p>
+
+<p>Mr. PRIYADARSHI said that despite many hurdles, least developed countries have come a long way since the adoption of the Istanbul Programme, when South-South trade and graduation were a distant dream.  Today, these countries are more integrated into global trade.  Unfortunately, they are far from achieving the ambitious targets set in Istanbul, partly due to the COVID-19 pandemic.  Historically, their progress has been incremental, but declines have been sharp, as seen over the past 18 months.  Those drafting the new Programme must listen to least developed countries.  Pointing to rapid and equitable access to vaccines as their most pressing need, he said the WTO is seeking to help ramp up vaccine production and distribution.  Members are also discussing the possibility of a temporary waiver of Trade-Related Aspects of Intellectual Property Rights (TRIPs) obligations as a response to the pandemic.  Market access must go together with Aid for Trade measures in the WTO for it to be successful, as graduation takes away numerous WTO privileges.  The agenda for the next Programme must be set by beneficiaries and include a mechanism of insurance against crises.</p>
+
+<p>Ms. BLANCHARD said inclusive global value chains bring vast new trading opportunities to developing economies, allowing firms and workers to carve out niche specialties in the global economy.  However, being integrated into global value chains means increased exposure to both major economic shocks and the typical “churn” of the global marketplace.  There are a lot of movements and disruptions in the global market.  Moreover, “getting into the game is costly”, and as a result, some countries, firms and workers are left out.  She urged Governments of least developed countries to “swim with the current and embrace fluidity”, meaning they must help firms and workers adjust to rapid changes in economic opportunities.  By going digital, for example, they can “kill three birds with one stone”, as this promises greater inclusion, better data to inform market strategy and foresight, and faster re-matching of buyers and sellers when disruptions occur.  She proposed establishing business-to-business and business-to-consumer e-commerce by securing mobile payment platforms, which reduces “matching” and transaction costs between buyers and sellers, as well as creating mobile-friendly online job postings and market price listings to democratize information, reduce wage and price “wedges” and speed economic adjustment to shocks.  Governments in least developed countries also should craft and enforce transparent and fair regulations to build and foster trust in, and adoption of, digital technologies, and establish a twenty-first century digital infrastructure that will grow, adapt and evolve.</p>
+
+<p>Ms. HAQUE said she witnessed the vulnerability of the garment industry in Bangladesh during the pandemic, and by extension, the limited productive capacity in least developed countries, whose economies rely on primary commodities and are weighed down by high debt burdens.  Least developed countries need to be supported in their economic and digital transformation, as COVID-19 threatens to stall or even reverse such progress.  In Bangladesh, women comprise 70 per cent of the workforce in the garment industry.  They are extremely vulnerable.  Least developed countries do not have the technology to develop business-to-consumer e-commerce.  About 73 per cent of her country’s garment exports enjoy duty-free access to markets now.  But if countries like hers were to graduate, they would lose privileges, she said, calling for a more comprehensive understanding of the dynamics at play.  Advocating for improved access to financing, such as foreign direct investment, blended and climate financing, she said least developed countries also require enough time to “graduate with grace”.  They must be looked at with more humanized eyes and with better understanding and empathy, she stressed, calling for an extension of preferential tariffs.</p>
+
+<p>In the ensuing discussion, the representative of <u>Malawi</u> said Aid for Trade will be critical for addressing supply-side constraints.  Continued support by the WTO Enhanced Integrated Framework in delivering Aid for Trade will be instrumental for harnessing the potential of trade as an engine of growth.  Turning to the impact of COVID-19, he said the group of 46 least developed countries could only manage to provide $20 per capita as stimulus spending against nearly $10,000 in the developed countries.  This underscores that least developed countries need to leverage all possible avenues in order to strengthen economic bases and to achieve sustainable development and graduation.</p>
+
+<p>The representative of the <u>Lesotho</u> warned that the noble idea of increasing global market share for least developed countries must be carefully considered, as trade figures often do not capture gaps within these countries.</p>
+
+<p>The representative of the <u>United Kingdom</u> said her country’s “Generalised Scheme of Preferences” launched at the beginning of 2021 grants duty-free, quota-free access to least developed countries.  More than half of the beneficiaries are least developed countries.  Through Aid for Trade programmes, the United Kingdom provides technical and institutional assistance to ensure they have the tools to build their capacities, infrastructure and policies to trade and export.</p>
+
+<p>The representative of <u>Enhanced Integrated Framework</u> of the WTO said that enhancing competitiveness of least developed countries must be at the centre of the new Programme, alongside market access and facility.  As such, e-commerce and digital trade should be the pillars of the new agenda.  Policy and regulations can be adapted, but building infrastructure and skills requires financing, he emphasized.</p>
+
+<p>Mr. PRIYADARSHI said opportunities such as the upcoming Doha conference come only periodically, and they should not be missed.  In addition to shaping the new 10-year agenda, world leaders must set smaller milestones.  To gain tangible results in WTO negotiations, least developed countries, which lack resources, must adopt the “woodpecker” approach and persist.</p>
+
+<p>Ms. BLANCHARD said her study has found that the graduating least developed countries were the hardest hit by the pandemic, with textile and apparel sectors in Bangladesh and Myanmar seeing sharp declines.  The ability to leverage information and communications technology is not the only way forward.  They can build supply networks as well.  There will be a tipping point and persistence is needed to reach that threshold.</p>
+
+<p>Ms. HAQUE said that her country’s workers in the garment industry will not become coders overnight, stressing the need for “reskilling” of its workforce to join the fourth industrial revolution.  Least developed countries need a lot of “handholding” in this type of skills transfer.  Least developed countries are greener, and their good practices must be incentivized.  They must be brought to the forefront.</p>
+
+<p>Mr. RAI said today’s discussions will feed into the drafting of the new Programme of Action.</p>
+
+<p><u>Panel 5</u></p>
+
+<p>In the afternoon, the Preparatory Committee held its fifth panel discussion, on the theme of “Supporting our climate, recovery from the coronavirus disease (COVID-19) pandemic and building a resilient society against future shocks”, co-chaired by Alya Ahmed Saif Al-Thani (Qatar) and Rabab Fatima, (Bangladesh).  It featured keynote speakers Sonam Phuntsho Wangdi, Chair of the LDC Group at the United Nations Climate Change negotiations (Bhutan), who addressed the Preparatory Committee in a video statement; and Trigg Talley<strong>, </strong>Director, Office of Global Change, United States Department of State.</p>
+
+<p>It also featured panellists Selwin Hart, Special Adviser to the Secretary-General on Climate Action and Assistant Secretary-General for the Climate Action Team; Sheila Oparaocha, Coordinator, International Network on Gender and Sustainable Energy (ENERGIA); Ovais Sarmad, Deputy Executive Secretary, United Nations Framework Convention on Climate Change (UNFCCC); and Sandra Delali Kemeh, Chair, Africa Youth Advisory Board on Disaster Risk Reduction.</p>
+
+<p>Ms. FATIMA said least developed countries are among the most vulnerable to an array of shocks, as the COVID-19 pandemic has revealed anew.  They have consistently emphasized the need for game-changing actions in a new Programme of Action.  She noted that building resilience has emerged as a cross-cutting issue during meetings this week, as the climate change crisis and its cascading effects on least developed countries’ economies requires the global community to explore the challenges and bottlenecks they face.  All parties agree on the need for enhanced action and support, not only under the auspices of the Framework Convention on Climate Change, but from all sectors.</p>
+
+<p>Mr. WANGDI said climate and the pandemic are the two most critical crises worldwide, and international solidarity the only way to address them.  The climate science of the Paris Agreement is robust and clear, insisting that the international community limit global warming to 1.5 °C, halve emissions by 2030 and achieve net zero emissions by 2050.  However, he stressed that the world is grossly off-track, heading to warming of 3 degrees by the end of the century, with 1 billion people in least developed countries suffering the most.  The impacts are already devastating at 1 degree of warming, with cyclones, floods and unusually heavy rains, taking lives and destroying properties and livelihoods, all worsened by the threat-multiplier of the pandemic.  Least developed countries will be stuck in an endless cycle of recovery and reconstruction, he warned, trapped in poverty and prevented from reaching the Sustainable Development Goals.  Climate change must be high on the agenda at the Doha conference, he stressed, as the pandemic has revealed business as usual is not working and building back better must be given priority.  Concrete and practical solutions are needed to create resilient societies and ecosystems.</p>
+
+<p>Mr. TALLEY said that under the Administration of President Joseph R. Biden, the international community will find the United States a strong partner in the fight against climate change.  On the first day of his Administration, the President issued an order to re-join the Paris Agreement, which occurred one month later, and appointed John Kerry to work full time as the Special Presidential Envoy for Climate Change.  He noted that Mr. Kerry is keenly aware of the challenges vulnerable States — and especially least developed countries — face confronting a problem not of their own making.  He also cited an executive order issued by President Biden listing more than two dozen specific actions, including the process for a new Nationally Determined Contribution to reduce by half emissions from 2005 to 2030, representing 50 to 52 per cent, an ambitious trajectory to achieve a net-zero power sector by 2035 and net-zero emissions by 2050.  During the recent Leaders Summit on Climate, countries representing 55 per cent of the global economy committed to keeping the 1.5 °C goal within reach and reducing emissions by two gigatons.  He stated the Administration will double the funding for addressing climate change from peak levels of President Barack Obama’s Administration [2009-2017] by 2024, and more than quadruple the funding allocated in 2020 by the United States Congress.  “This announcement puts us back in the game in meeting the $100 billion mobilization goal,” he assured.  The Government is also developing and directing bilateral programmes and reengaging with multilateral institutions, including the UNFCC Green Climate Fund.</p>
+
+<p>Ms. OPARAOCHA said it is crucial to recognize that women are on the frontlines of the pandemic, providing 70 per cent of care, and those without sustainable energy are doing this work with their own labour.  In homes in sub-Saharan least developed countries without clean energy, women and girls spend 18 hours per week collecting fuel, as opposed to 5 hours per week for those with it.  Women-led households and women-run businesses need support and must participate in decision-making to find inclusive solutions.  As climate finance is out of reach for most women, all parties must analyse policy and institutional changes in finance to make them more responsive to women in least developed countries.  She noted that the energy sector is a jobs growth sector, but only 34 per cent of the workforce is female.</p>
+
+<p>Mr. HART said that six months before United Nations Climate Change Conference of the Parties (COP26) in Glasgow — and eight months before the LDC5 Conference in Doha — the stakes could not be higher for least developed countries.  As they stand on the frontlines of COVID-19, debt and climate crises, the world has a once-in-a-generation window to ensure they build back better.  The priority must be to keep the 1.5 °C global warming goal within reach, he said, noting that call initially came from small island developing States and least developed countries.  Even at a current 1.2-degree level, the impact worldwide is unprecedented.  He called on all major economies to commit to ambitious goals on net-zero emissions and within their Nationally Determined Contributions.  The United Nations Development Programme (UNDP) estimates adaptation costs at $70 billion annually, possibly reaching $300 billion.  With least developed countries receiving only 14 per cent of total climate finance flows, he said more must be done.</p>
+
+<p>Mr. SARMAD, stressing that the impact of climate change will only worsen, described the scale and pace of funding as “far short of required levels”.  This issue must be at the centre of the new Programme of Action.  Noting that agriculture and livestock are of primary importance to least developed countries, he said water resources already face multiple pressures.  He called for greater efforts to strengthen the capacity of least developed countries for adaptation and data collection to inform national policies.  The Green Climate Fund aims to provide half of the adaptation finance needed by vulnerable countries, he said, noting that UNFCCC is seeking to mobilize the entire United Nations system under the slogan, “More, Faster, Better”.  Indeed, the pandemic should provide the impetus to help least developed countries face current and unknown future shocks.</p>
+
+<p>Ms. KEMEH noted that more than half of people living in least developed countries are under age 25 and, therefore, suffer disproportionately high losses under climate change.  By 2050, one in four young people will live in least developed countries, so the international community must engage them in building societies that can handle climate shocks.  The LDC5 Conference must feature young voices at all levels, she said, and inviting her to attend is a step in the right direction.  “The young understand the problems they face and have innovative solutions,” she said.  They must be engaged as active participants.  She called on Governments to include young people in their delegations, and on development partners offering finance support to welcome them in decision-making spaces.  Skill gaps in the digital revolution must also be addressed, with programmes to train and retrain young people in relevant skills.</p>
+
+<p>In the ensuing discussion, Mr. WANGDI, speaking on behalf of the LDC Group, said key sectors such as agriculture, water, tourism, roads and grid systems are crucial but vulnerable, and building resilience must be the priority.  The necessary support and capacity-building measures must be made available to least developed countries through the United Nations system and complementary means, so they can collect data, and fully implement targets of the Sendai Framework for Disaster Risk Reduction 2015-2030.  Increased funding from all climate finance initiatives is also required, and the Paris Agreement commitment of $100 billion must be met, with an increased share to least developed countries.</p>
+
+<p>The representative of the <u>World Bank Group</u> said, as the largest donor, it has increased climate funding “to new heights” over the last two years.  Funding for adaptation grew from 40 per cent to 50 per cent of climate financing, and the Group is committing $5 billion to help in Africa.  It has also significantly frontloaded International Development Association (IDA) resources.</p>
+
+<p>The representative of the <u>United Nations Office for Disaster Risk reduction</u> noted annual loss to climate change is 8.5 per cent of gross domestic product (GDP) in least developed countries, versus around 3 per cent in developed countries.  A new Programme of Action must ensure that all least developed countries have disaster risk reduction strategies, supported at the highest levels of Government.  Meanwhile, Governments and development partners must also make strong commitments for capacity-building in data collection.</p>
+
+<p>The representative of the <u>United Nations Environment Programme (UNEP</u>) said current financial systems fail to account for the benefits derived from nature.  She noted that in the past 50 years, the global economy has grown nearly fivefold.  Environmental changes most impact poorer countries, and the pandemic has revealed both the grave risks and the need for greater international cooperation in building resilience.  A new Programme of Action is required, and UNEP is working to the address the specific needs of least developed countries, landlocked developing countries and small island developing States in a post-COVID-19 world.</p>
+
+<p>Mr. SARMAD reminded the panel of his group’s United Nations-wide initiative, and the importance of collecting evidence and data on actual needs and providing necessary assistance.  The question is not just about finance, he stressed, but about what to do with it, and therefore technology transfer and training are crucial.</p>
+
+<p>Ms. KEMEH said words must be backed by action in plans for achievement in the next decade.</p>
+
+<p>In her closing remarks, Ms. AL-THANI said COVID-19 will not be the last major shock impacting least developed countries, and the best way forward is to help them build capacities and provide the necessary resources.  Noting that her country, Qatar, is hosting the LDC5 Conference, she expressed hope that the forthcoming Programme of Action will help 880 million people onto the path of sustainable development.</p></div>
+      
+  
+  </div>
+
+  <div class="block inline taxonomy-term">
+
+  
+    
+
+      
+      <div class="field field--name-field-theme field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><a href="/en/development" hreflang="en">Development</a></div>
+          </div>
+  
+  
+  </div>
+
+  <div class="block inline taxonomy-term">
+
+  
+    
+
+      
+      <div class="field field--name-field-main-tags field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><a href="/ldc5" hreflang="und">#LDC5</a></div>
+          </div>
+  
+  
+  </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Sidebar -->
+      <aside class="col-md-3 mb-2 radix-layouts-sidebar panel-panel">
+        <div class="panel-panel-inner">
+          
+  <div class="views-element-container block">
+
+  
+            <h2>Highlights</h2>
+        
+
+      <div>
+<div class="view js-view-dom-id-dcf2a205333e7cdafbcdf5452ed31ab9e8f6f072517a46daaa17648d961425ac view-highlights">
+
+        
+        
+        
+            <div class="view-content">
+        
+
+
+
+  
+
+
+
+
+    <div class="views-row">
+          <div class="media media--type-highlight media--view-mode-highlights-block-item">
+  
+      <div class="media row g-2">
+      <div class="media-image col-3 align-self-center">
+                  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  
+<img loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/01/ga.jpg?itok=yuMYn2Dm" width="60" height="60" alt="General Assembly Hall" class="img-fluid"/>
+
+
+</div>
+      
+        
+              </div>
+      <div class="media-body col-9">
+                <a href="/en/2023/ga12487.doc.htm">
+          
+            <div class="field field--name-name field--type-string field--label-hidden field__item">Highlights of General Assembly 77th Session</div>
+      
+        </a>
+                
+            <div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 21 Sep - 30 Dec 2022</div>
+      
+      </div>
+    </div>
+  </div>
+
+      </div>
+    <div class="views-row">
+          <div class="media media--type-highlight media--view-mode-highlights-block-item">
+  
+      <div class="media row g-2">
+      <div class="media-image col-3 align-self-center">
+                  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  
+<img loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/09/UNGA78_Highlight.png?itok=BCC6cvVH" width="60" height="60" alt="UNGA 78 logo" class="img-fluid"/>
+
+
+</div>
+      
+        
+              </div>
+      <div class="media-body col-9">
+                <a href="/en/highlights/UNGA78">
+          
+            <div class="field field--name-name field--type-string field--label-hidden field__item">High-level meetings of the 78th session of the General Assembly</div>
+      
+        </a>
+                
+            <div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 19-26 September 2023</div>
+      
+      </div>
+    </div>
+  </div>
+
+      </div>
+    <div class="views-row">
+          <div class="media media--type-highlight media--view-mode-highlights-block-item">
+  
+      <div class="media row g-2">
+      <div class="media-image col-3 align-self-center">
+                  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  
+<img loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/01/MicrosoftTeams-image%20%281%29.jpg?itok=J_z1l6Qz" width="60" height="60" alt="Security Council Thumbnail" class="img-fluid"/>
+
+
+</div>
+      
+        
+              </div>
+      <div class="media-body col-9">
+                <a href="/en/2023/sc15172.doc.htm">
+          
+            <div class="field field--name-name field--type-string field--label-hidden field__item">Security Council 2022 Round-Up</div>
+      
+        </a>
+                
+            <div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 2022</div>
+      
+      </div>
+    </div>
+  </div>
+
+      </div>
+    <div class="views-row">
+          <div class="media media--type-highlight media--view-mode-highlights-block-item">
+  
+      <div class="media row g-2">
+      <div class="media-image col-3 align-self-center">
+                  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  
+<img loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/03/2023%20Water%20Conference%20Highlight.png?itok=RHCHTXd3" width="60" height="60" alt="2023 Water Conference" class="img-fluid"/>
+
+
+</div>
+      
+        
+              </div>
+      <div class="media-body col-9">
+                <a href="/en/highlights/WaterAction">
+          
+            <div class="field field--name-name field--type-string field--label-hidden field__item">United Nations  Water Conference</div>
+      
+        </a>
+                
+            <div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 22-24 March 2023</div>
+      
+      </div>
+    </div>
+  </div>
+
+      </div>
+    <div class="views-row">
+          <div class="media media--type-highlight media--view-mode-highlights-block-item">
+  
+      <div class="media row g-2">
+      <div class="media-image col-3 align-self-center">
+                  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  
+<img loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/03/CSW67%20Highlight_0.png?itok=-Zhf2u0z" width="60" height="60" alt="CSW67" class="img-fluid"/>
+
+
+</div>
+      
+        
+              </div>
+      <div class="media-body col-9">
+                <a href="/en/highlights/CSW67">
+          
+            <div class="field field--name-name field--type-string field--label-hidden field__item">Sixty-Seventh Session of the Commission on the Status of Women</div>
+      
+        </a>
+                
+            <div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 6-17 March 2023</div>
+      
+      </div>
+    </div>
+  </div>
+
+      </div>
+    <div class="views-row">
+          <div class="media media--type-highlight media--view-mode-highlights-block-item">
+  
+      <div class="media row g-2">
+      <div class="media-image col-3 align-self-center">
+                  
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  
+<img loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/03/LDC5%20logo.jpg?itok=DObZ8qFm" width="60" height="60" alt="LDC5 logo" class="img-fluid"/>
+
+
+</div>
+      
+        
+              </div>
+      <div class="media-body col-9">
+                <a href="/en/highlights/LDC5">
+          
+            <div class="field field--name-name field--type-string field--label-hidden field__item"> Fifth United Nations Conference on the Least Developed Countries</div>
+      
+        </a>
+                
+            <div class="field field--name-field-date-location field--type-string field--label-hidden field__item">Doha, 5-9 March 2023</div>
+      
+      </div>
+    </div>
+  </div>
+
+      </div>
+
+      </div>
+      
+            
+        
+        
+        </div>
+</div>
+
+  
+  </div>
+
+<div class="grey-bg noon-briefing-block">
+
+
+  
+            <h2>Daily Noon Briefing</h2>
+        
+
+      <div>
+<div class="view js-view-dom-id-01f1e643c4dc5912f14af61f20e2c59450e08cbfd476d2e542c7c292ac218ec6 view-home-press">
+
+        
+        
+        
+            <div class="view-content">
+        
+
+
+
+  
+
+
+
+
+    <div class="views-row">
+          <div class="views-field views-field-view-node-1"><span class="field-content"><img src="/themes/custom/un_press_theme/assets/images/noon-briefing-image.jpg" alt="UN Spokesperson Stéphane Dujarric" class="img-responsive"/></span></div><div class="views-field views-field-view-node"><span class="field-content"><a href="/en/2023/db231006.doc.htm" hreflang="en"><time datetime="2023-10-06T12:00:00Z">6 October 2023</time>
+</a></span></div><div class="views-field views-field-body"><p class="field-content"/><p>The UN Humanitarian Coordinator in Ukraine, Denise Brown, visited Hroza today, less than 24 hours after an attack that killed dozens of civilians — calling it a barbaric consequence of the war that 20 per cent of a community can be wiped out in mere seconds.  The UN is mobilizing humanitarian aid to civilians in the area.</p></div>
+      </div>
+
+      </div>
+      
+            
+        
+            <div class="view-footer">
+        <div class="more-link"><a href="https://press.un.org/en/content/noon-briefings">Latest Noon Briefings</a></div>
+
+      </div>
+      
+        </div>
+</div>
+
+  
+</div>
+
+        </div>
+      </aside>
+
+    </div>
+  </div>
+</div><!-- /.bartlett -->
+
+    </div>
+  </article>
+
+<div class="field field-name-disclaimer">
+  <span class="disclaimer">For information media. Not an official record.</span>
+</div>
+
+  
+  </div>
+
+
+        </div>
+      </div>
+      </main>
+
+      <footer class="page__footer-tabs">
+      <div class="container">
+        <div class="row">
+            
+  <div class="block block--resourcesandtools block--system-menu">
+
+  
+            <h2>Resources</h2>
+        
+
+      
+  
+
+
+  <ul class="nav">
+                          
+                                  
+        <li class="nav-item">
+                      <a href="https://journal.un.org/en" class="nav-link" title="Journal">Journal</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://www.un.org/en/events-and-news" class="nav-link" title="Conferences &amp; Events">Conferences &amp; Events</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://www.un.org/en/media/accreditation/alert.shtml" class="nav-link" title="Media Alert">Media Alert</a>
+                  </li>
+            </ul>
+
+
+  
+  </div>
+
+  <div class="block block--newsandmediaresources block--system-menu">
+
+  
+            <h2>News &amp; Media Resources</h2>
+        
+
+      
+  
+
+
+  <ul class="nav">
+                          
+                
+        <li class="nav-item">
+                      <a href="https://news.un.org/en/" title="Global perspective Human stories" class="nav-link">UN News</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://media.un.org/en/webtv" class="nav-link" title="Webcast">Webcast</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="http://www.unmultimedia.org/photo/" class="nav-link" title="Photo">Photo</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="http://www.unmultimedia.org/" class="nav-link" title="Multimedia">Multimedia</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="http://www.un.org/media/accreditation/" title="Media Accreditation" class="nav-link">Media Accreditation</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://www.unmultimedia.org/" class="nav-link" title="Television">Television</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="http://www.unmultimedia.org/tv/unifeed/" title="UNIFEED" class="nav-link">UNIFEED</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="http://www.un.org/sg/spokesperson/" title="Spokesperson for the Secretary-General" class="nav-link">Spokesperson for the Secretary-General</a>
+                  </li>
+            </ul>
+
+
+  
+  </div>
+
+  <div class="block block--quicklinks block--system-menu">
+
+  
+            <h2>Quick Links</h2>
+        
+
+      
+  
+
+
+  <ul class="nav">
+                          
+                                  
+        <li class="nav-item">
+                      <a href="/en/content/general-assembly" class="nav-link" title="General Assembly section link" data-drupal-link-system-path="content/general-assembly">General Assembly</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="/en/content/security-council" class="nav-link" title="Security Council section link" data-drupal-link-system-path="content/security-council">Security Council</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="/en/content/economic-and-social-council" class="nav-link" title="ECOSOC section link" data-drupal-link-system-path="content/economic-and-social-council">Economic and Social Council</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="/en/content/secretary-general" class="nav-link" title="Secretary-General section link" data-drupal-link-system-path="content/secretary-general">Secretary-General</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="/en/content/noon-briefings" class="nav-link" title="Latest Noon Briefing section link" data-drupal-link-system-path="content/noon-briefings">Latest Noon Briefing</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="/en/content/meetings-coverage" class="nav-link" title="Meetings Coverage section link" data-drupal-link-system-path="content/meetings-coverage">Meetings Coverage</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="/en/content/press-release" class="nav-link" title="Press Releases section link" data-drupal-link-system-path="content/press-release">Press Releases</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="/en/content/press-conference" class="nav-link" title="Meetings Coverage section link" data-drupal-link-system-path="content/press-conference">Press Conferences</a>
+                  </li>
+            </ul>
+
+
+  
+  </div>
+
+
+        </div>
+      </div>
+    </footer>
+        <footer class="page__footer">
+      <div class="container">
+        <div class="row d-flex justify-content-between align-items-md-center">
+          <div class="col-4 col-md-4 col-lg-5 col-xl-6 footer-brand">
+            <a href="https://www.un.org/en" title="Home">
+              <span class="site-name">United Nations</span></a>
+          </div>
+          <div class="col-8 col-md-8 col-lg-7 col-xl-6 justify-content-end">
+            <div class="row">
+              <div class="col-12 col-md-8 d-flex align-items-md-center menu-social">
+                <div class="social-media">
+                  <a href="https://www.un.org/en/get-involved/social-media/" target="_blank" class="footer-link">Join the conversation:</a>
+                    
+  <div class="block block--footersocialmenu block--system-menu">
+
+  
+    
+
+      
+  
+
+
+  <ul class="nav">
+                          
+                                  
+        <li class="nav-item">
+                      <a href="https://www.facebook.com/unitednations" class="nav-link"><i class="fab fa-facebook-square"/><span class="sr-only">Facebook</span></a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://twitter.com/UNMediaLiaison" class="nav-link"><i class="fab fa-twitter"/><span class="sr-only">Twitter</span></a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw" class="nav-link"><i class="fab fa-youtube-square"/><span class="sr-only">Youtube</span></a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="/en/rss.xml" class="nav-link" data-drupal-link-system-path="rss.xml"><i class="fa fa-rss"/><span class="sr-only">RSS</span></a>
+                  </li>
+            </ul>
+
+
+  
+  </div>
+
+
+                </div>
+              </div>
+              <div class="col-12 col-md-4 d-flex align-items-md-center justify-content-md-end donate-wrapper">
+                <div class="donate">
+                  <a href="https://www.un.org/en/about-us/how-to-donate-to-the-un-system/" target="_blank" class="btn btn-default btn-reverse dark" role="button" id="donate_button">Donate</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+        <footer class="page__footer-bottom">
+      <div class="container">
+        <div class="row d-flex justify-content-md-end align-items-md-center">
+          <div class="col-12">
+              
+  <div class="block block--ungloballinksfootermenu block--system-menu">
+
+  
+    
+
+      
+  
+
+
+  <ul class="nav">
+                          
+                                  
+        <li class="nav-item">
+                      <a href="http://www.un.org/en/siteindex/" class="nav-link" title="Site Index">A-Z Site Index</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://www.un.org/en/contact-us-0" class="nav-link" title="Help">Contact</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="http://www.un.org/en/aboutun/copyright/" title="Copyright" class="nav-link">Copyright</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://www.un.org/en/about-us/frequently-asked-questions" class="nav-link">FAQ</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="http://www.un.org/en/aboutun/fraudalert/" title="Fraud Alert" class="nav-link">Fraud Alert</a>
+                  </li>
+                      
+                
+        <li class="nav-item">
+                      <a href="http://www.un.org/en/aboutun/privacy/" title="Privacy Notice" class="nav-link">Privacy Notice</a>
+                  </li>
+                      
+                                  
+        <li class="nav-item">
+                      <a href="https://www.un.org/en/aboutun/terms" class="nav-link" title="Terms of Use">Terms of Use</a>
+                  </li>
+            </ul>
+
+
+  
+  </div>
+
+
+          </div>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+<div class="minimal-share-panel">
+  <p class="minimal-share"><a href="https://www.facebook.com/sharer.php?u=https://press.un.org/en/2021/dev3440.doc.htm" title="Share this via Facebook" class="facebook" data-ms="facebook">Facebook</a>
+<a href="https://twitter.com/intent/tweet?text=World’s Poorest Nations Need International Support, Experts Tell Preparatory Committee, as E-Commerce, Global Market Access Take Centre Stage&amp;url=https://press.un.org/en/2021/dev3440.doc.htm" title="Share this via Twitter" class="twitter" data-ms="twitter">Twitter</a>
+<a href="mailto:?subject=World’s Poorest Nations Need International Support, Experts Tell Preparatory Committee, as E-Commerce, Global Market Access Take Centre Stage&amp;body=https://press.un.org/en/2021/dev3440.doc.htm" title="Share this via Email" class="email" data-ms="email">Email</a>
+<a href="" title="Share this via Print" class="print" data-ms="print">Print</a>
+<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://press.un.org/en/2021/dev3440.doc.htm&amp;title=World’s Poorest Nations Need International Support, Experts Tell Preparatory Committee, as E-Commerce, Global Market Access Take Centre Stage" title="Share this via LinkedIn" class="linkedin" data-ms="linkedin">LinkedIn</a>
+</p>
+
+</div>
+
+  </div>
+
+    <script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"US","siteName":"UN Press","entityCreated":"1622218726","entityLangcode":"en","entityType":"node","entityBundle":"press","entityId":"292940","entityTitle":"World’s Poorest Nations Need International Support, Experts Tell Preparatory Committee, as E-Commerce, Global Market Access Take Centre Stage","field_country":"","doc_date":"2021-05-27","doc_type":"Press Release","added_un_bodies":"","main_tags":"#LDC5","regions":"","symbol":{"type":"string","value":["DEV\/3440"]},"campaign_id":"#LDC5","theme":"Development","un_bodies":"","userUid":0});</script>
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"en\/","currentPath":"node\/292940","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","themeUrl":"themes\/custom\/un_press_theme"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0},"fr":{"id":"fr","name":"French","direction":"ltr","weight":1}}},"minimalShare":{"sizes":{"linkedin":{"width":520,"height":570},"twitter":{"width":600,"height":260},"facebook":{"width":600,"height":500}}},"ajaxTrustedUrl":{"\/en\/sitesearch":true},"user":{"uid":0,"permissionsHash":"d429094e8101c7fbbf66cf85f7616354d19f2337c642528ef74c3443208d6269"}}</script>
+<script src="/sites/default/files/js/js_juxljz0RQrYzNbLYGedStiDdGc6bDfgJra9t5d5V9b8.js"/>
+
+  </body>
+</html>
