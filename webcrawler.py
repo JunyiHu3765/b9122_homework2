@@ -42,6 +42,7 @@ while len(urls) > 0 and len(opened) < maxNumUrl:
             print("***urls.append and seen.append***")
             urls.append(childUrl)
             seen.append(childUrl)
+            # add one line here
         else:
             print("######")
 
